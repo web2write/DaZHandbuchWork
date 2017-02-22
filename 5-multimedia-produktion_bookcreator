@@ -1,0 +1,71 @@
+## Book Creator
+(image: bookcreator-icon.png)
+(image: bookcreator.jpg)
+
+**Anbieter:** :(link: http://bookcreator.com/ text:  Red Jumper Limited, Bristol, USA)
+**Preis: ** (link: https://play.google.com/store/apps/details?id=net.redjumper.bookcreatorfree text: Android kostenlos)[^1] / (link: https://play.google.com/store/apps/details?id=net.redjumper.bookcreator text: Android Vollversion 2,43 €) /
+(link: https://itunes.apple.com/de/app/gratis-book-creator/id661166101?mt=8 text: iOS kostenlos)[^1] / (link: https://itunes.apple.com/de/app/book-creator-for-ipad/id442378070?mt=8 text: iOS Vollversion 4,99 €) /
+(link: https://www.microsoft.com/de-de/store/p/book-creator/9wzdncrdszxg text: Windows kostenlos)[^2]
+
+**Offline-Nutzung:** möglich
+
+Mit Book Creator lassen sich einfach und intuitiv multimediale eBooks erstellen. Texte, Bilder, Audiodateien, Filme, und Comic-Elemente können in einem einfachen Baukastensystem zusammengefügt werden. Die erstellten Bücher können als eBook, PDF-Datei oder als Film ausgegeben werden. Seit dem Erscheinen der App wurden weltweit in über 60 Ländern mehr als 5 Millionen Bücher von den Nutzern erstellt.
+
+**Zielgruppen:**
+- junge und ältere Lernende und Lehrende
+
+**Sprachen:**
+- Bedienungssprache: Deutsch, Englisch, Französisch, Italienisch, Japanisch, Koreanisch, Portugiesisch, Russisch, Spanisch, Tradit. Chinesisch, Vereinf. Chinesisch  (je nach Spracheinstellung des mobilen Gerätes)
+- Zielsprache: alle
+
+**Funktionen:** 
+- Ein mit Book Creator erstelltes multimediales eBook (mit Audios oder Videos) kann mit eBook-Readern oder eBook-Apps gelesen werden. 
+- Für den Browser Google Chrome gibt es die Erweiterung “Readium”, mittels derer man solche erweiterten eBooks (im epub3-Format) direkt im Browser betrachten kann.
+- Mittels verschiedener Format-Vorlagen kann man Bücher im Hoch- oder Querformat oder quadratisch erzeugen.
+- Wenn man einen Comic erstellen will, stehen zusätzlich zu diesen Formaten noch 21 verschiedenen Feld-Einteilungen zur Verfügung.
+- Bilder oder Videosequenzen können direkt mit der Kamera aufgenommen oder aus der Bilder-Galerie importiert werden.
+- Text wird über die Bildschirmtastatur eingegeben - es stehen umfangreiche Formatierungsfunktionen, Schriften etc. zur Verfügung.
+- Mittels einer Freihand-Stift-Funktion kann in verschiedenen Farben mit unterschiedlicher Stiftstärke mit dem Finger oder einem Stift geschrieben und gezeichnet werden.
+- Musik und Geräusche wie auch gesprochene Sprache kann direkt mittels einer Aufnahme-Funktion oder per Import von Audio-Dateien eingefügt werden.
+- Für die Comic-Formate können verschiedene Sprechblasen, Sticker und spezielle Comic-Schriften eingefügt werden.
+- Linien, Rechtecke, Kreise und Buttons erweitern die visuelle Formensprache.
+- Die Anordnung der unterschiedlichen Elemente auf der Seite und die Formatierung ist intuitiv mittels Drag & Drop. 
+- Zusätzlich können für alle visuellen Elemente Farbe, Rahmenstärke, Schattierungen eingestellt werden.
+- Die erstellten Bücher von den verschiedenen Plattformen sind kompatibel, jedenfalls Android und iOS.
+- Das erstellte Buch kann exportiert werden als PDF, als Ebook oder als Video.
+- Die erstellen Dateien können auf dem Tablet gespeichert, in andere Apps importiert oder über Email, Drobbox oder andere Cloud-Dienste verschickt werden.
+- Mit der kostenlose Version kann man lediglich ein einziges Ebook erzeugen.
+- Mit Book Creator erstellte eBooks, die Audios oder Videos enthalten, können nicht auf Ebook-Lesegeräten gelesen werden, die die multimedialen Elemente nicht unterstützen.
+
+
+****
+
+**Links:**
+* App-Webseite: (link:http://bookcreator.com/ text: Webseite mit umfangreichen Funktionsbeschreibungen, Download-Links, Fallstudien, Links zu Projekten, Wettbewerben, Unterrichtsbeispielen)  (in Englisch)
+* Gebrauchsanleitung zum Download: (link: www.nibis.de/uploads/1chaplin/digital%20deutsch%20lernen/app%20anleitungen/book%20creator.pdf text: 5-seitige Schritt-für-Schritt-Anleitung des NLQ,PDF )[^3]
+* Unterrichtsbeispiel zum Download : (link: wwww.nibis.de/uploads/1chaplin/digital%20deutsch%20lernen/unterrichtsbeispiele/bildw%C3%B6rterbuch.pdf text: Erstellen eines mehrsprachigen digitalen Bildwörterbuchs (ebook) zu verschiedenen Wortschatz-Themen. NLQ, PDF) [^3]
+* Videos eines Comic-Wettbewerbs: (link: https://www.youtube.com/playlist?list=PLwflOcLg7wbkBZIRZ5pyy7FhFoztuQ4_I text: Finalisten eines Comic-Wettbewerbs, April 2016, 10 1 bis 4-minütige Filme auf Youtube)
+* Über 300 Beispiele von Ebooks aus der Community: (link: https://de.pinterest.com/bookcreator/made-in-book-creator/ text: Eine Auswahl aus den über 25 Millionen erstellen Ebooks auf Pinterest)
+* Erfahrungsbericht aus der Unterrichtspraxis (iPad): (link: http://www.ipadschule.ch/kurse/book-creator text: Thomas Staub, Sekundarschule Andelfingen, Lizenz: CC by NC SA)
+* E-Book-Erstellung mit dem Book Creator - (Android Version): (link: https://lehrerfortbildung-bw.de/werkstatt/mobiledevices/tablet/android/ebooks/ text: Landesakademie für Fortbildung und Personalentwicklung an Schulen, Esslingen , Lizenz: Copyright-Hinweis, Verbreitung in nichtgewerblichen Bildungseinrichtungen gestattet)
+
+****
+
+**Technische Voraussetzungen:**
+##### iOS
+- Version: ab iOS 9.0 (auf iPhone, iPad, iPod touch)
+- Speicherplatz: 55.4 MB
+
+##### Android
+- Version: 4.0 oder höher
+- Speicherplatz: variiert je nach Gerät
+
+##### Windows
+- Version: Windows 8.1 oder 10 4.0; Architektur: ARM, x64, x86
+- Speicherplatz: 98,53 MB 
+
+<!-- *Geprüfte Version: iOS 4.4.3 - Letzte Aktualisierung: 05.11.2016 Autor: hi - letzte Anpassung 12.11.2016 cr* -->
+
+[^1]:Die kostenlose Version von Book Creator ist auf die Erstellung eines eBooks beschränkt.
+[^2]:Die Windows-Version erlaubt weder Video- noch PDF-Export.
+[^3]:NQL: Niedersächsisches Landesinstitut für schulische Qualitätsentwicklung, © Natalie Eckert, Cornelia Schneider-Pungs, Lizenz: CC-BY-NC-SA-4.0)
