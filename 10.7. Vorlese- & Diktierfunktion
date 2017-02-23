@@ -1,0 +1,103 @@
+<h2 id="übersicht">Übersicht</h2>
+1. (link: #vorlesefunktion text: Vorlesefunktion)
+2. (link: #diktierfunktion text: Diktierfunktion)
+
+***
+
+<h2 id="vorlesefunktion">1. Vorlesefunktion</h2>
+###  bei Android- und iOS-Geräten
+(image: talk.jpg)
+
+**Anbieter:** (link: https://plus.google.com/communities/107986392540899459664 text: Abast Multimedia), (link: http://www.apple.com/de/accessibility text:  Apple  Bedienungshilfen)
+**Preis:**  (link: https://play.google.com/store/apps/details?id=com.ktix007.talk  text: Talk - Text in Sprache, kostenlos ) 
+(link: https://play.google.com/store/apps/details?id=com.abast.talkpro  text: Talk - Text in Sprache  Pro, Werbefrei: 1,99 € ) / (link: http://www.apple.com/de/accessibility// text: Diktierfunktion und Sprachausgabe in der Textverarbeitungsapp Notizen - kostenlos (iOS))
+**Offline-Nutzung:** möglich
+
+Mit der Vorlesefunktion  und Diktierfunktion von Smartphones und Tablets kann das Lernen einer Sprache durch den zusätzlichen Audiokanal unterstützt werden: einerseits wird das Hörverstehen gefördert, andererseits ermöglicht die Umwandlung von gesprochener Sprache in Text auch schreibunkundigen Personen Kommunikation und Beteiligung auf unterschiedlichen Plattformen. 
+
+**Zielgruppen:** 
+* Migranten und Asylsuchende in Deutschland
+* Erwachsene Deutsch-Anfänger
+
+**Sprachen:**
+- Bedienungssprachen:  einstellbar für zahlreiche Sprachen
+- Zielsprache: Deutsch oder andere Sprachen
+
+**Android**
+Die Android-App "Talk" kann jeden Text auf Ihrem Smartphone vorlesen: 
+- Webseiten, E-Mails, Postings in sozialen Netzwerken, SMS, PDFs oder Ebooks
+- verschiedene Sprachen sind für diese Text-to-Voice-App kein Problem
+-  der Nutzer kann die Tonlage und die Geschwindigkeit der Vorleser-Stimme individuell bestimmen.
+-  Die entsprechenden Texte können als Audio-File exportiert werden.
+-  Pobleme bei Anglizismen, Fremdwörtern, Fachausdrücken, Zahlen, Sonderzeichen im Text
+
+** iOS**
+Apple hat die Elementarfunktionen Vorlesen und Diktieren als "Bedienungshilfen" von vornherein in iPhones und iPads integriert. Man benötigt also keine zusätzlich App.
+Unter Systemeinstellungen / Bedienungshilfen / Sprachausgabe wir die Sprachausgabe aktiviert.
+Es gibt zwei Optionen:
+- Auswahl sprechen: Geeignet für Webseiten mit Menus
+- Bildschirminhalt sprechen: geeignet hauptsächllich für textbasierte Seiten, die man sich, möglichst  im Lesemodus, bequem komplett vorlesen kann, ohne durch Menus etc. gestört oder verwirrt zu werden.
+- Stimmen: Es lassen sich verschiedene weibliche und männliche Stimmen nachladen, auch die Verwendung der Siri-Stimmen ist möglich.
+
+***
+**Links:**
+* Download Android: (link: https://play.google.com/store/apps/details?id=com.nuance.swype.dtc text: Android: Swype Keyboard)
+* TTS Reader) (link://http://ttsreader.com/de/ text: : Vorlesen im Browser (Safari/ Chrome)
+* * Diktierfunktion und Sprachausgabe iOs (link:  http://www.nibis.de/uploads/1chaplin/digital%20deutsch%20lernen/diktierfunktion%20sprachausgabe%20notizen.pdf  text: : App-Diktierfunktion und Sprachausgabe in der Textverarbeitungsapp Notizen -  (iOS))
+* Anleitung: Lesemodus einstellen (iOS) (link: http://iphone-tricks.de/anleitung/2592-safari-reader-modus text: : Einstellen des Lesemodus)
+..
+***
+**Technische Voraussetzungen:**
+##### Android
+- Version: variiert je nach Gerät / TTS Reader ab 4.3 oder höher 
+
+##### iOS
+- Version: in den Basisversionen in allen Versionen, Verbessert ab ab iOS 9.0 (auf iPhone, iPad, iPod touch)
+Bedienungshilfen von iOS 9: (link: https://www.zehe-edv.de/2015/09/16/das-ist-neu-in-den-bedienungshilfen-von-ios-9/  text: Das ist neu in den Bedienungshilfen von iOS 9)
+
+****
+
+<h2 id="diktierfunktion">2. Diktierfunktion </h2>
+
+**Anbieter:** (link: http://www.nuance.de/ text: Nuance Communications, Inc, Burlington (Massachusetts, USA)
+(link: http://www.apple.com/de/accessibility text:  Apple  Bedienungshilfen)
+**Preis:**  (link:  https://play.google.com/store/apps/details?id=com.nuance.swype.trial&hl=de text: Swype Keyboard Trial, kostenlos ) 
+(link: https://play.google.com/store/apps/details?id=com.nuance.swype.dtc text: Swype Keyboard, Werbefrei: 1,11 €  + in App käufe für verschiedene Optionen) / (link: http://www.apple.com/de/accessibility// text: Diktierfunktion und Sprachausgabe in der Textverarbeitungsapp Notizen - kostenlos (iOS))
+**Offline-Nutzung:** Android: erfordert eine Online-Verbindung; IOS: erfordert eine Online-Verbindung, umfangreiche Daten (ggf. auch Ortungsdienste, Kontaktdaten etc. werden an Apple übertragen, siehe 
+(link:http://www.apple.com/de/privacy/approach-to-privacy/ text: Datenschutz: Siri und Diktierfunktion (iOS))
+ab  iOS 9 können Sprachpakete heruntergeladen werden (Link siehe unten).
+
+**Android**
+Die Android-App "Swype Keyboard" ermöglicht nicht nur eine weitreichende Anpassung der Tastatur oder das Vorlesen  von Texten,  sondern bietet auch eine komfortable Sprache-zu-Text-Funktion
+- mittels der eingebauten Spracherkennungsfunktion DRAGON DICTATION wird durch einfaches Bestätigen der Dragon-Taste jegliche Spracheingabe schnell und genau in Text umgewandelt
+-  Verfügbar in 36 Sprachen, u.a. Arabisch, Katalanisch, Krotatisch, Deutsch, Englisch, Ungarisch, Polnisch, Rumänisch, Russisch, Türkisch, Ukrainisch
+
+**iOS**
+Apple hat die Elementarfunktionen  Diktieren als "Bedienungshilfen" von vornherein in iPhones und iPads integriert. Man benötigt also keine zusätzlich App.
+Unter **Systemeinstellungen/ Allgemein/Tastatur/Diktierfunktion**
+wird die Diktierfunktion allgemein aktiviert.
+Unter **Systemeinstellungen / Allgemein / Bedienungshilfen / Sprachausgabe / Auswahl sprechen**
+wird die Diktierfunktion in die normale Bildschirmtastatur integiert:
+- in jedem editierbarem Textfenster, für das sich die Bildschirmtastatur öffnet, erscheint das Mikrofonsymbol links neben der Leertaste
+- Durch	Tippen	auf	das	Mikrofon wird die Aufnahme gestartet und der Text kann nun	diktiert werden.
+
+***
+**Links:**
+* Anleitung: (Android) (link: http://www.dscc-berlin.de/pdf/tablet/Sprache%20zu%20Text.pdf text: : Mit der Spracheingabe von Google Texte diktieren, PDF)
+Anleitung: Diktierfunktion unter iOS, Android und Windows (link: http://onenote-blog.de/onenote-freihaendig-notizen-diktieren-in-ios-android-und-windows/ text: : Notizen direkt diktieren in iOS, Android und Windows)
+ iOS, Android und Windows
+* Diktierfunktion und Sprachausgabe iOs (link: http://www.nibis.de/uploads/1chaplin/digital%20deutsch%20lernen/diktierfunktion%20sprachausgabe%20notizen.pdf  text: : App-Diktierfunktion und Sprachausgabe in der Textverarbeitungsapp Notizen -  (iOS))
+* Anleitung: Sprachpakete herunterladen: diktieren ohne Internetverbindung (iOS) (link: http://www.maclife.de/ratgeber/tipp-diktieren-ohne-internetverbindung-unter-ios-93-10075058.html  text: : Tipp: Diktieren ohne Internetverbindung unter iOS 9.3)
+..
+***
+**Technische Voraussetzungen:**
+##### Android
+- Version: variiert je nach Gerät
+
+##### iOS
+- Version: in den Basisversionen in allen Versionen, Verbessert ab ab iOS 9.0 (auf iPhone, iPad, iPod touch)
+Bedienungshilfen von iOS 9: (link: https://www.zehe-edv.de/2015/09/16/das-ist-neu-in-den-bedienungshilfen-von-ios-9/  text: Das ist neu in den Bedienungshilfen von iOS 9)
+
+<a href="#übersicht">zurück zur Übersicht</a>
+
+<!-- *Geprüfte Version: iOS und Android diverse - Autor: 2017-02-05 hi - Letzte Aktualisierung: 2017-02-05 cr* -->
